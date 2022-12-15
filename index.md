@@ -10,7 +10,7 @@ My GitHub page is http://github.com/IanTade.
 
 * Lab 3
 
-    Lab 3 was one of my favorite labs because it helped me remember all that I learned in highschool about coding. It remindedme why i enjoyed coding in highschool and decided to major in it for college. I learned the differences between C++ and JavaScript and learned that they are similar in many ways. I was able to see how the run and compile errors worked in C++ and how to fix them as opposed to JavaScript as well.
+    Lab 3 was one of my favorite labs because it helped me remember all that I learned in highschool about coding. It reminded me how much I enjoyed coding in highschool and decided to major in it for college. I learned the differences between C++ and JavaScript and learned that they are similar in many ways. I was able to see how the run and compile errors worked in C++ and how to fix them as opposed to JavaScript as well.
 
 * Lab 8
 
